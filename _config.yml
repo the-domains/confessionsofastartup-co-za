@@ -1,14 +1,16 @@
 layout_spectrum: 1
 typography_spectrum: 0
 color:
-  lightness: 0.3088973
-  brandStrength: 0.3603206
-  saturation: 1
-  rhythmicContrast: 0.5181704
+  lightness: 0.5938370109070092
+  brandStrength: 0.4629277961794287
+  saturation: 0.8154343396890908
+  rhythmicContrast: 0.36063723312690854
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#FF6138'
+    - '#FFFF9D'
+    - '#BEEB9F'
+    - '#79BD8F'
+    - '#00A388'
 name: confessionsofastartup.co.za
+coverPrefs:
+  filter: false
